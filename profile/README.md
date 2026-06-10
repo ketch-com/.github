@@ -15,10 +15,8 @@ Open-source SDKs, reference implementations, and integration tools for the Ketch
 | [ketch-ios](https://github.com/ketch-com/ketch-ios) | iOS SDK for consent management — GDPR/CCPA-ready mobile consent UI |
 | [ketch-android](https://github.com/ketch-com/ketch-android) | Android SDK for consent management — Kotlin, Jetpack Compose |
 | [ketch-react-native](https://github.com/ketch-com/ketch-react-native) | React Native module wrapping the iOS and Android mobile SDKs |
-| [ketch-cli](https://github.com/ketch-com/ketch-cli) | Command-line interface for the Ketch platform |
 | [ketch-forwarder](https://github.com/ketch-com/ketch-forwarder) | Ketch Forwarder spec and reference implementation for event forwarding |
 | [gtm-consent-mode](https://github.com/ketch-com/gtm-consent-mode) | Google Tag Manager template for Ketch consent mode integration |
-| [orlop](https://github.com/ketch-com/orlop) | Go infrastructure library used across Ketch backend services |
 
 ---
 
